@@ -70,8 +70,8 @@ be determined.
 
 ## More information
 
-See the special section on S3 that will appear soon on the web page of
-GECCO: http://gecco-2018.sigevo.org/index.html/Summer+School
+See
+[the special section on S3 that will appear soon on the web page of GECCO](http://gecco-2018.sigevo.org/index.html/Summer+School)
 
 Any comments or questions on the school organization, please contact
 JJ Merelo (jmerelo@ugr.es <mailto:jmerelo@ugr.es>)
