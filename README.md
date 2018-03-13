@@ -8,7 +8,8 @@
 July 13, 14, and 19 (plus activities in July 15-19). It will take
 place in Osaka the days before the conference, will have some
 activities during GECCO proper, and we will wrap up on the afternoon
-after GECCO is over.
+after GECCO is over with discussions, a hackathon and presentation of
+joint work.
 
 ## Description
 
@@ -25,6 +26,7 @@ the conference later in the afternoon. That way, students will be able
 to enjoy and learn during the conference proper at the same time they
 meet researchers and advance in their learning tasks. GECCO tutorials,
 workshops, and papers will be an integral part of the S3.
+
 
 Students are expected to:
 
@@ -43,6 +45,28 @@ grants of GECCO.
 
 We specially encourage women and minorities to apply for this summer
 school, where everyone is welcome. 
+
+## Schedule
+
+We will meet on July 13th at the Kindai University in Osaka, room to
+be determined.
+
+- *July 13th*: presentation, group dynamics and presentation of group
+  tools, scientific programming and visualization tools. Team building
+  and design thinking session for elaboration of projects.
+
+- *July 14th*: Group presentation and mentoring choice and
+  assignment. Mentors working with teams for on-demand talks and
+  tutorials. Short presentations in the afternoon, and personal
+  tutoring sessions.
+- *July 15,16th*: Attending tutorials and workshops. Lunchtime
+  meetings with tutors, after-work meeting for scheduling the next
+  days and choose tracks and papers to attend.
+- *July 17,18,19th*: Online interaction, lunchtime meeting with
+  tutorls, after-work meeting for next-day interaction and
+  preparation.
+- *July 19th*: lunchtime general meeting, and afternoon hackathon,
+  presentation editing and delivery.
 
 ## More information
 
