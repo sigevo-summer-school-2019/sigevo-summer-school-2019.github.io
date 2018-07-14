@@ -9,3 +9,6 @@ Here [is the updated calendar, Osaka/Kyoto time zone](https://calendar.google.co
 
 ## Faculty presentations
 
+* [Open science/free software](https://jj.github.io/s3-open-science/#/), by JJ Merelo.
+* [Creativity and evolutionary computation](https://www.slideshare.net/fcofdez/s3-tutorial-creativity?utm_source=slideshow02&utm_medium=ssemail&utm_campaign=share_slideshow), by Francisco Fernández.
+
