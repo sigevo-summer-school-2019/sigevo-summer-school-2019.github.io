@@ -18,3 +18,8 @@ Here [is the updated calendar, Osaka/Kyoto time zone](https://calendar.google.co
 * [Tiger mosquito algorithm](https://github.com/sigevo-summer-school-2018/tiger-mosquito-algorithm)
 * [Predicting tiger mosquito spread](https://github.com/sigevo-summer-school-2018/tigers)
 * [Fake news project](https://github.com/sigevo-summer-school-2018/fake-news-project)
+* [Plastic picking robot](https://github.com/sigevo-summer-school-2018/plastic-picking-robot-algorithm)
+
+## Original announcement
+
+[This was the original page used for announcement](announcement.md). It's no longer current.
