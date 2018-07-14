@@ -17,3 +17,4 @@ Here [is the updated calendar, Osaka/Kyoto time zone](https://calendar.google.co
 * [Analyzing tiger mosquito spread](https://github.com/sigevo-summer-school-2018/Analyzing-tiger-mosquito-disease-spread)
 * [Tiger mosquito algorithm](https://github.com/sigevo-summer-school-2018/tiger-mosquito-algorithm)
 * [Predicting tiger mosquito spread](https://github.com/sigevo-summer-school-2018/tigers)
+* [Fake news project](https://github.com/sigevo-summer-school-2018/fake-news-project)
