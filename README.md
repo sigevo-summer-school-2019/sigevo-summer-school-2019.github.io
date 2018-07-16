@@ -13,6 +13,7 @@ Here [is the updated calendar, Osaka/Kyoto time zone](https://calendar.google.co
 * [Creativity and evolutionary computation](https://www.slideshare.net/fcofdez/s3-tutorial-creativity?utm_source=slideshow02&utm_medium=ssemail&utm_campaign=share_slideshow), by Francisco Fernández.
 * [Challenges in evolutionary computation](https://drive.google.com/file/d/1pfGsYdSlMgr5J8IxEJhZY3MeBjLJRO-O/view), by Marc Schoenaeuer.
 * [Design thinking session](https://www.slideshare.net/slideshow/embed_code/key/kYBUmzGCyuj5I), by Anna I. Esparcia.
+* [Jupyter notebooks](https://docs.google.com/presentation/d/1DAMdqNPL8xG3CCDMFUDartOZhseoR9e24zGeCvFcGGA), by Mario García-Valdez
 
 ## Started projects
 
