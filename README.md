@@ -1,7 +1,7 @@
 # SIGEVO     SUMMER     SCHOOL
 
 [SIGEvo](https://sigevo.org) Summer School 2018 in Osaka, Japan, back-to-back with
-[GECCO 2018](http://gecco-2018.sigevo.org/). 
+[GECCO 2018](http://gecco-2018.sigevo.org/). The [summer school blog](https://sigevosummerschool.wordpress.com/), including mainly tutorial reports, is also online.
 
 ## Calendar
 
