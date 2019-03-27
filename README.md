@@ -1,28 +1,85 @@
 # SIGEVO     SUMMER     SCHOOL
 
-[SIGEvo](https://sigevo.org) Summer School 2018 in Osaka, Japan, back-to-back with
-[GECCO 2018](http://gecco-2018.sigevo.org/). The [summer school blog](https://sigevosummerschool.wordpress.com/), including mainly tutorial reports, is also online.
+[SIGEvo](https://sigevo.org) Summer School 2019 in Prague, Czech Republic, back-to-back with
+[GECCO 2019](http://gecco-2019.sigevo.org/). 
 
-## Calendar
+## Dates
 
-Here [is the updated calendar, Osaka/Kyoto time zone](https://calendar.google.com/calendar?cid=aXBtbGhiMGUyMmJvYWU4N3RqdTBxOGNscXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) for the summer school.
+July 13, 14, and 19 (plus activities in July 15-19). It will take
+place in Osaka the days before the conference, will have some
+activities during GECCO proper, and we will wrap up on the afternoon
+after GECCO is over with discussions, a hackathon and presentation of
+joint work.
 
-## Faculty presentations
+## Description
 
-* [Open science/free software](https://jj.github.io/s3-open-science/#/), by JJ Merelo.
-* [Creativity and evolutionary computation](https://www.slideshare.net/fcofdez/s3-tutorial-creativity?utm_source=slideshow02&utm_medium=ssemail&utm_campaign=share_slideshow), by Francisco Fernández.
-* [Challenges in evolutionary computation](https://drive.google.com/file/d/1pfGsYdSlMgr5J8IxEJhZY3MeBjLJRO-O/view), by Marc Schoenaeuer.
-* [Design thinking session](https://www.slideshare.net/slideshow/embed_code/key/kYBUmzGCyuj5I), by Anna I. Esparcia.
-* [Jupyter notebooks](https://docs.google.com/presentation/d/1DAMdqNPL8xG3CCDMFUDartOZhseoR9e24zGeCvFcGGA), by Mario García-Valdez
+SIGEVO is a special interest group of ACM always looking for new ways
+to enlarge the community of researchers working in different
+biologically inspired metaheuristics. The second SigEvo Summer School
+(S3), held in conjunction with GECCO 2018 in Kyoto, is looking for
+students and mentors.
 
-## Started projects
+The core of the second S3 will take place in Osaka in the days
+previous to the conference, and will continue in daily interactions
+during the conference proper in Kyoto, finishing in the same day of
+the conference later in the afternoon. That way, students will be able
+to enjoy and learn during the conference proper at the same time they
+meet researchers and advance in their learning tasks. GECCO tutorials,
+workshops, and papers will be an integral part of the S3.
 
-* [Analyzing tiger mosquito spread](https://github.com/sigevo-summer-school-2018/Analyzing-tiger-mosquito-disease-spread)
-* [Tiger mosquito algorithm](https://github.com/sigevo-summer-school-2018/tiger-mosquito-algorithm)
-* [Predicting tiger mosquito spread](https://github.com/sigevo-summer-school-2018/tigers)
-* [Fake news project](https://github.com/sigevo-summer-school-2018/fake-news-project)
-* [Plastic picking robot](https://github.com/sigevo-summer-school-2018/plastic-picking-robot-algorithm)
 
-## Original announcement
+Students are expected to:
 
-[This was the original page used for announcement](announcement.md). It's no longer current.
+- Attend the two days before the conference, as well as the session after the conference, is finished, on the same day.
+
+- Have a valid registration to GECCO itself, plus a small fee to  participate in the school.
+
+- Cooperatively work on an assignment and follow the standards of
+    proper social and research behavior.
+	
+- Deliver, by the end of S3, a paper and presentation on what they
+  have been working on during it. 
+
+Students of the S3 will be eligible for travel, register and lodging
+grants of GECCO.
+
+We specially encourage women and minorities to apply for this summer
+school, where everyone is welcome. 
+
+## Schedule
+
+We will meet on July 13th at the Kindai University in Osaka, room to
+be determined.
+
+- *July 13th*: presentation, group dynamics and presentation of group
+  tools, scientific programming and visualization tools. Team building
+  and design thinking session for elaboration of projects.
+
+- *July 14th*: Group presentation and mentoring choice and
+  assignment. Mentors working with teams for on-demand talks and
+  tutorials. Short presentations in the afternoon, and personal
+  tutoring sessions.
+- *July 15,16th*: Attending tutorials and workshops. Lunchtime
+  meetings with tutors, after-work meeting for scheduling the next
+  days and choose tracks and papers to attend.
+- *July 17,18,19th*: Online interaction, lunchtime meeting with
+  tutorls, after-work meeting for next-day interaction and
+  preparation.
+- *July 19th*: lunchtime general meeting, and afternoon hackathon,
+  presentation editing and delivery.
+
+## More information
+
+Any comments or questions on the school organization, please contact
+JJ Merelo (jmerelo@ugr.es <mailto:jmerelo@ugr.es>)
+
+## Mentors
+
+Mentors are expected to prepare material in coordination with the rest
+of the faculty, as well as deliver talks during the summer school and
+mentor their share of students. They will have to be present during
+all days the summer school is taking place. 
+
+If you are interested in being a mentor for the second S3, please send
+your information (name, affiliation, and contact information) to JJ
+Merelo (jmerelo@ugr.es <mailto:jmerelo@ugr.es>).
