@@ -5,34 +5,35 @@
 
 ## Dates
 
-July 13, 14, and 19 (plus activities in July 15-19). It will take
-place in Osaka the days before the conference, will have some
-activities during GECCO proper, and we will wrap up on the afternoon
-after GECCO is over with discussions, a hackathon and presentation of
-joint work.
+July 10-12 (plus GECCO tutorials/workshops 13-14). It will take
+place in the University of Prague the days before the conference, with
+access to GECCO tutorials for those that have not registered for GECCO too.
 
 ## Description
 
 SIGEVO is a special interest group of ACM always looking for new ways
 to enlarge the community of researchers working in different
-biologically inspired metaheuristics. The second SigEvo Summer School
-(S3), held in conjunction with GECCO 2018 in Kyoto, is looking for
-students and mentors.
+biologically inspired metaheuristics. The third SigEvo Summer School
+(S3), held in conjunction with GECCO 2019 in Prague, is looking for
+students.
 
-The core of the second S3 will take place in Osaka in the days
-previous to the conference, and will continue in daily interactions
-during the conference proper in Kyoto, finishing in the same day of
-the conference later in the afternoon. That way, students will be able
-to enjoy and learn during the conference proper at the same time they
-meet researchers and advance in their learning tasks. GECCO tutorials,
-workshops, and papers will be an integral part of the S3.
+The core of the second S3 will take place in Prague in the days
+previous to the conference, and will continue with tutorials the two
+first days of GECCO, although the bulk of the school will finish right
+before GECCO. That way, students will be able
+to enjoy and learn during the conference proper without the burden of
+having to work on the S3 projects. GECCO tutorials and 
+workshops will be an integral part of the S3.
 
 
 Students are expected to:
 
-- Attend the two days before the conference, as well as the session after the conference, is finished, on the same day.
+- Attend the three days of the summer school, as well as some
+  tutorials and workshops the two first days of GECCO.
 
-- Have a valid registration to GECCO itself, plus a small fee to  participate in the school.
+- Have a valid registration for the summer school. You can register
+  independently (with free access to tutorials and workshops) or
+  together with GECCO for a small additional fee.
 
 - Cooperatively work on an assignment and follow the standards of
     proper social and research behavior.
