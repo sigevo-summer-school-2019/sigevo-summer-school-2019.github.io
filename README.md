@@ -1,4 +1,4 @@
-# SIGEVO     SUMMER     SCHOOL
+# SIGEVO     SUMMER     SCHOOL 2019
 
 [SIGEvo](https://sigevo.org) Summer School 2019 in Prague, Czech Republic, back-to-back with
 [GECCO 2019](http://gecco-2019.sigevo.org/). 
@@ -46,40 +46,56 @@ grants of GECCO.
 We specially encourage women and minorities to apply for this summer
 school, where everyone is welcome. 
 
+## Faculty/mentors
+
+This year we'll have a great set of mentors, that will deliver some
+lectures and also help to mentor the students in groups:
+
+
+* Anna I Esparcia-Alcázar, Universitat Politècnica de València, Spain
+* Mario Garcia-Valdez, Instituto Tecnológico de Tijuana, Mexico
+* Penousal Machado, Universidade de Coimbra, Portugal
+* JJ Merelo, Universidad de Granada, Spain
+* Mike Preuss, University of Leiden, the Netherlands
+* Marc Schoenauer, INRIA, France
+
+## Venue
+
+Czech Technical University, Faculty of Electrical Engineering, which is in campus Dejvice.
+
+There is a neighboring metro station Dejvicka, which is on the way
+from the airport to the city center.
+
+We will be working in two rooms:
+
+* FELcafe, which will be used for group work 
+* Room 82, mainly for presentations. 
+
+The first day we will meet at Room 82.
+
 ## Schedule
+
 
 We will meet on July 13th at the Kindai University in Osaka, room to
 be determined.
 
-- *July 13th*: presentation, group dynamics and presentation of group
+- *July 10th*: presentation, group dynamics and presentation of group
   tools, scientific programming and visualization tools. Team building
-  and design thinking session for elaboration of projects.
+  and design thinking session for elaboration of projects at the end
+  of the day. Group presentation and mentoring choice and
+  assignment.
 
-- *July 14th*: Group presentation and mentoring choice and
-  assignment. Mentors working with teams for on-demand talks and
+- *July 11th*: Mentors working with teams for on-demand talks and
   tutorials. Short presentations in the afternoon, and personal
   tutoring sessions.
-- *July 15,16th*: Attending tutorials and workshops. Lunchtime
-  meetings with tutors, after-work meeting for scheduling the next
-  days and choose tracks and papers to attend.
-- *July 17,18,19th*: Online interaction, lunchtime meeting with
-  tutorls, after-work meeting for next-day interaction and
-  preparation.
-- *July 19th*: lunchtime general meeting, and afternoon hackathon,
+- *July 12*: lunchtime general meeting, and afternoon hackathon,
   presentation editing and delivery.
+- *Jyly 13-14*: students might attend to tutorials of their choice.
 
 ## More information
 
 Any comments or questions on the school organization, please contact
 JJ Merelo (jmerelo@ugr.es <mailto:jmerelo@ugr.es>)
 
-## Mentors
 
-Mentors are expected to prepare material in coordination with the rest
-of the faculty, as well as deliver talks during the summer school and
-mentor their share of students. They will have to be present during
-all days the summer school is taking place. 
 
-If you are interested in being a mentor for the second S3, please send
-your information (name, affiliation, and contact information) to JJ
-Merelo (jmerelo@ugr.es <mailto:jmerelo@ugr.es>).
