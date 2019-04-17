@@ -6,7 +6,7 @@
 ## Dates
 
 July 10-12 (plus GECCO tutorials/workshops 13-14). It will take
-place in the University of Prague the days before the conference, with
+place in the Czech Technical University in Prague the days before the conference, with
 access to GECCO tutorials for those that have not registered for GECCO too.
 
 ## Description
@@ -17,7 +17,7 @@ biologically inspired metaheuristics. The third SigEvo Summer School
 (S3), held in conjunction with GECCO 2019 in Prague, is looking for
 students.
 
-The core of the second S3 will take place in Prague in the days
+The core of the third S3 will take place in Prague in the days
 previous to the conference, and will continue with tutorials the two
 first days of GECCO, although the bulk of the school will finish right
 before GECCO. That way, students will be able
@@ -29,6 +29,8 @@ registration site.
 
 
 Students are expected to:
+
+- Bring their own laptops to work on the projects.
 
 - Attend the three days of the summer school, as well as some
   tutorials and workshops the two first days of GECCO.
@@ -92,7 +94,7 @@ We will meet on July 10th in the venue, initially in Room 82.
   tutoring sessions.
 - *July 12*: lunchtime general meeting, and afternoon hackathon,
   presentation editing and delivery.
-- *Jyly 13-14*: students might attend to tutorials of their choice.
+- *July 13-14*: students might attend to tutorials of their choice.
 
 ## More information
 
