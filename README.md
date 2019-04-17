@@ -23,7 +23,9 @@ first days of GECCO, although the bulk of the school will finish right
 before GECCO. That way, students will be able
 to enjoy and learn during the conference proper without the burden of
 having to work on the S3 projects. GECCO tutorials and 
-workshops will be an integral part of the S3.
+workshops will be an integral part of the S3. You
+can [register now](http://www.cvent.com/d/66q2lw/4W) in the GECCO
+registration site.
 
 
 Students are expected to:
@@ -77,8 +79,7 @@ The first day we will meet at Room 82.
 ## Schedule
 
 
-We will meet on July 13th at the Kindai University in Osaka, room to
-be determined.
+We will meet on July 10th in the venue, initially in Room 82.
 
 - *July 10th*: presentation, group dynamics and presentation of group
   tools, scientific programming and visualization tools. Team building
