@@ -96,6 +96,53 @@ We will meet on July 10th in the venue, initially in Room 82.
   presentation editing and delivery.
 - *July 13-14*: students might attend to tutorials of their choice.
 
+Activities will run from 9 to five, with an hour pause for a working
+lunch at 12:30. Detailed timetable below
+
+### July 10th
+
+We will meet at room 82 of the Faculty of Electrical Engineering,
+campus Dejvice
+
+* 9-10 : Welcome and meet & greet
+* 10-11 : Introduction to the summer school, presentation of the
+  program by JJ Merelo
+* 11-11:30 : Coffee break
+* 11:30 - 12:30: Challenges in evolutionary computation by Marc
+  Schoenauer
+* 12:30 - 13:30: lunch pause
+* 13:30 - 14:30: The role of Evolutionary Computation in Game AI -
+  Mike Preuss
+* 14:30 - 15:30: Evolutionary Art - Penousal Machado
+* 15:30 - 16:00: Coffee break
+* 16:00 - 17:00: Implementation of evolutionary computation using
+  Python - Mario García Valdez
+  
+### July 11th
+
+We will meet initially at room 82 of the Faculty of Electrical Engineering,
+campus Dejvice
+
+* 9-10 : Open Science, free software and evolutionary computation by JJ Merelo
+* 10-10:30 : Coffee break
+* 10:30 - 12:30: Design thinking session to design projects by Anna Esparcia
+* 12:30 - 13:30: lunch pause
+* 13:30 - 14:30: Project pitch and project election
+* 14:30 - 17:00: Move to FELcafe and start teamwork on projects.
+
+### July 12th
+
+Meeting at FELCafe
+
+* 9-15 Work on project and project presentation, with pause for coffee
+  and lunch (or continue working on projects)
+* 15:00 move back to Room 82, start presentations by every team.
+
+### July 13-14th
+
+GECCO tutorials and workshops, as advised by mentors, taking place at
+[GECCO venue](https://gecco2019.sigevo.org).
+
 ## More information
 
 Any comments or questions on the school organization, please contact
