@@ -65,7 +65,10 @@ lectures and also help to mentor the students in groups:
 
 ## Venue
 
-Czech Technical University, Faculty of Electrical Engineering, which is in campus Dejvice.
+Czech Technical University, Faculty of Electrical Engineering, which
+is in campus
+Dejvice. [This page](http://www.fel.cvut.cz/en/faculty/position.html)
+describes where the summer school is going to take place.
 
 There is a neighboring metro station Dejvicka, which is on the way
 from the airport to the city center.
@@ -74,6 +77,10 @@ We will be working in two rooms:
 
 * FELcafe, which will be used for group work 
 * Room 82, mainly for presentations. 
+
+Here's a floorplan of the site with the position of both rooms.
+
+![FELcafe and Room 82](http://www.fel.cvut.cz/en/faculty/position.html)
 
 The first day we will meet at Room 82.
 
