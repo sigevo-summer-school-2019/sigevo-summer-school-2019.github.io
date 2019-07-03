@@ -1,7 +1,8 @@
 # SIGEVO     SUMMER     SCHOOL 2019
 
 [SIGEvo](https://sigevo.org) Summer School 2019 in Prague, Czech Republic, back-to-back with
-[GECCO 2019](http://gecco-2019.sigevo.org/). 
+[GECCO 2019](http://gecco-2019.sigevo.org/). This page is also
+published in https://sigevo-summer-school-2019.github.io/
 
 ## Dates
 
