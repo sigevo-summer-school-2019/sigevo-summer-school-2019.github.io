@@ -58,7 +58,6 @@ lectures and also help to mentor the students in groups:
 
 
 * Anna I Esparcia-Alcázar, Universitat Politècnica de València, Spain
-* Mario Garcia-Valdez, Instituto Tecnológico de Tijuana, Mexico
 * Penousal Machado, Universidade de Coimbra, Portugal
 * JJ Merelo, Universidad de Granada, Spain
 * Mike Preuss, University of Leiden, the Netherlands
