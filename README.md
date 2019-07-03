@@ -81,7 +81,7 @@ We will be working in two rooms:
 
 Here's a floorplan of the site with the position of both rooms.
 
-![FELcafe and Room 82](http://www.fel.cvut.cz/en/faculty/position.html)
+![FELcafe and Room 82](D0.png)
 
 The first day we will meet at Room 82.
 
