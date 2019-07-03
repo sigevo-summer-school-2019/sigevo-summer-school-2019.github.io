@@ -115,7 +115,7 @@ campus Dejvice
 * 14:30 - 15:30: Evolutionary Art - Penousal Machado
 * 15:30 - 16:00: Coffee break
 * 16:00 - 17:00: Implementation of evolutionary computation using
-  Python - Mario García Valdez
+  Python - TBD
   
 ### July 11th
 
