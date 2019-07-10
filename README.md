@@ -88,7 +88,8 @@ The first day we will meet at Room 82.
 
 ## Projects
 
-We will be asking you to get into groups of maximum 5 people and work on a project of your choice
+We will be asking you to get into groups of maximum 5 people and work on a project of your choice.
+
 Project ideas this year should ideally be based on the UN's Sustainable Development Goals, https://www.un.org/sustainabledevelopment/ but they can also be related to anything from your own experience.
 
 A few ideas (please add your own)
