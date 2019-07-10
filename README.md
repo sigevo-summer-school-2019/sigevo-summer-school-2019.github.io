@@ -64,7 +64,6 @@ lectures and also help to mentor the students in groups:
 * Mike Preuss, University of Leiden, the Netherlands
 * Marc Schoenauer, INRIA, France
 
-Project ideas this year should be based on the UN's Sustainable Development Goals, https://www.un.org/sustainabledevelopment/
 
 ## Venue
 
@@ -86,6 +85,15 @@ Here's a floorplan of the site with the position of both rooms.
 ![FELcafe and Room 82](D0.png)
 
 The first day we will meet at Room 82.
+
+## Projects
+
+We will be asking you to get into groups of maximum 5 people and work on a project of your choice
+Project ideas this year should ideally be based on the UN's Sustainable Development Goals, https://www.un.org/sustainabledevelopment/ but they can also be related to anything from your own experience.
+
+A few ideas (please add your own)
+- SDG #5 *Gender Equality*: what can we do to solve algorithmic gender bias?
+- SDG #2 *Zero hunger*: Can we fix food waste using our algorithms?
 
 ## Schedule
 
