@@ -94,6 +94,7 @@ Project ideas this year should ideally be based on the UN's Sustainable Developm
 A few ideas (please add your own)
 - SDG #5 *Gender Equality*: what can we do to solve algorithmic gender bias?
 - SDG #2 *Zero hunger*: Can we fix food waste using our algorithms?
+- SDG #14 *Life below water*: What can we do to remove plastic from the sea?
 
 ## Schedule
 
