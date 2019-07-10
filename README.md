@@ -64,6 +64,8 @@ lectures and also help to mentor the students in groups:
 * Mike Preuss, University of Leiden, the Netherlands
 * Marc Schoenauer, INRIA, France
 
+Project ideas this year should be based on the UN's Sustainable Development Goals, https://www.un.org/sustainabledevelopment/
+
 ## Venue
 
 Czech Technical University, Faculty of Electrical Engineering, which
@@ -122,8 +124,7 @@ campus Dejvice
   Mike Preuss
 * 14:30 - 15:30: Evolutionary Art - Penousal Machado
 * 15:30 - 16:00: Coffee break
-* 16:00 - 17:00: Implementation of evolutionary computation using
-  Python - TBD
+* 16:00 - 17:00: Make your poster presentations awesome - JJ Merelo
   
 ### July 11th
 
