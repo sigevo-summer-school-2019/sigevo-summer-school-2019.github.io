@@ -134,7 +134,7 @@ campus Dejvice
   Mike Preuss
 * 14:30 - 15:30: Evolutionary Art - Penousal Machado
 * 15:30 - 16:00: Coffee break
-* 16:00 - 17:00: Make your poster presentations awesome - JJ Merelo
+* 16:00 - 17:00: [Make your poster presentations awesome](https://www.flickr.com/photos/atalaya/albums/72157709551888481) - JJ Merelo
   
 ### July 11th
 
