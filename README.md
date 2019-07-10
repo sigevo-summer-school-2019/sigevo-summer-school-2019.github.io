@@ -114,10 +114,10 @@ We will meet at room 82 of the Faculty of Electrical Engineering,
 campus Dejvice
 
 * 9-10 : Welcome and meet & greet
-* 10-11 : Introduction to the summer school, presentation of the
+* 10-10:30 : Introduction to the summer school, presentation of the
   program by JJ Merelo
-* 11-11:30 : Coffee break
-* 11:30 - 12:30: Challenges in evolutionary computation by Marc
+* 10:30-11:00 : Coffee break
+* 11:00 - 12:30: Challenges in evolutionary computation by Marc
   Schoenauer
 * 12:30 - 13:30: lunch pause
 * 13:30 - 14:30: The role of Evolutionary Computation in Game AI -
