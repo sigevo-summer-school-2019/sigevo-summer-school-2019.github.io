@@ -100,6 +100,7 @@ A few ideas (please add your own)
 - SDG #16 *Peace, justice and strong institutions* (well, sort of): How to detect fake news, images and videos? 
 
 #### References
+- Food waste: https://stats.oecd.org/Index.aspx?DataSetCode=FOOD_WASTE
 - Sea plastic: http://plasticadrift.org/; https://app.dumpark.com/seas-of-plastic-2/; http://odinafrica.org/about-us/news/217-90-percent-of-ocean-plastic-waste-comes-from-asia-and-africa.html
 - Fake news data:  http://www.fakenewschallenge.org or https://www.kaggle.com/c/fake-news)
 
