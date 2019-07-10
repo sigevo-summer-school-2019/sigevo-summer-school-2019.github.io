@@ -93,9 +93,11 @@ We will be asking you to get into groups of maximum 5 people and work on a proje
 Project ideas this year should ideally be based on the UN's Sustainable Development Goals, https://www.un.org/sustainabledevelopment/ but they can also be related to anything from your own experience.
 
 A few ideas (please add your own)
-- SDG #5 *Gender Equality*: what can we do to solve algorithmic gender bias?
+
 - SDG #2 *Zero hunger*: Can we fix food waste using our algorithms?
+- SDG #5 *Gender Equality*: what can we do to solve algorithmic gender bias?
 - SDG #14 *Life below water*: What can we do to remove plastic from the sea?
+- SDG #16 *Peace, justice and strong institutions* (well, sort of): How to detect fake news, images and videos?
 
 ## Schedule
 
