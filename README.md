@@ -1,4 +1,4 @@
-# SIGEVO     SUMMER     SCHOOL 2019
+# SIGEVO  SUMMER  SCHOOL 2019
 
 [SIGEvo](https://sigevo.org) Summer School 2019 in Prague, Czech Republic, back-to-back with
 [GECCO 2019](http://gecco-2019.sigevo.org/). This page is also
@@ -138,7 +138,7 @@ campus Dejvice
 * 11:00 - 12:30: Challenges in evolutionary computation by Marc
   Schoenauer
 * 12:30 - 13:30: lunch pause
-* 13:30 - 14:30: The role of Evolutionary Computation in Game AI -
+* 13:30 - 14:30: [The role of Evolutionary Computation in Game AI](https://www.slideshare.net/MikePreuss1/the-role-of-evolutionary-computation-in-game-ai) -
   Mike Preuss
 * 14:30 - 15:30: Evolutionary Art - Penousal Machado
 * 15:30 - 16:00: Coffee break
@@ -149,7 +149,7 @@ campus Dejvice
 We will meet initially at room 82 of the Faculty of Electrical Engineering,
 campus Dejvice
 
-* 9-10 : Open Science, free software and evolutionary computation by JJ Merelo
+* 9-10 : [Open Science, free software and evolutionary computation by JJ Merelo](https://jj.github.io/s3-open-science)
 * 10-10:30 : Coffee break
 * 10:30 - 12:30: Design thinking session to design projects by Anna Esparcia
 * 12:30 - 13:30: lunch pause
