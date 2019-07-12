@@ -135,7 +135,7 @@ campus Dejvice
 * 10-10:30 : Introduction to the summer school, presentation of the
   program by JJ Merelo
 * 10:30-11:00 : Coffee break
-* 11:00 - 12:30: Challenges in evolutionary computation by Marc
+* 11:00 - 12:30: [Challenges in evolutionary computation](https://www.lri.fr/~marc/newTrends2019.pdf) by Marc
   Schoenauer
 * 12:30 - 13:30: lunch pause
 * 13:30 - 14:30: [The role of Evolutionary Computation in Game AI](https://www.slideshare.net/MikePreuss1/the-role-of-evolutionary-computation-in-game-ai) -
