@@ -140,7 +140,7 @@ campus Dejvice
 * 12:30 - 13:30: lunch pause
 * 13:30 - 14:30: [The role of Evolutionary Computation in Game AI](https://www.slideshare.net/MikePreuss1/the-role-of-evolutionary-computation-in-game-ai) -
   Mike Preuss
-* 14:30 - 15:30: Evolutionary Art - Penousal Machado
+* 14:30 - 15:30: [Evolutionary Art](https://www.dropbox.com/s/oshjni5lod6lg5q/gecco%202019%20summer%20school.pdf?dl=0) - Penousal Machado
 * 15:30 - 16:00: Coffee break
 * 16:00 - 17:00: [Make your poster presentations awesome](https://www.flickr.com/photos/atalaya/albums/72157709551888481) - JJ Merelo
   
